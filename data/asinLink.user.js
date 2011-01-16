@@ -1,3 +1,8 @@
+/*
+ * author: soh335
+ * license: MIT License
+ */
+
 (function(){
     if(window.location.href != window.parent.location.href) {
         return;

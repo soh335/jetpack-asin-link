@@ -1,3 +1,8 @@
+/*
+ * author: soh335
+ * license: MIT License
+ */
+
 var form = document.getElementById('setting');
 var textarea = document.getElementById('link_setting');
 
