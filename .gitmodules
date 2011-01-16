@@ -1,0 +1,3 @@
+[submodule "data/extension.js"]
+	path = data/extension.js
+	url = git://github.com/swdyh/extension.js.git
